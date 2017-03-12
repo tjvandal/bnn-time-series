@@ -8,7 +8,7 @@ Requires:
 ```
 scipy
 numpy
-tensorflow-gpu
+tensorflow-gpu=1.0
 scikit-learn
 seaborn
 matplotlib
